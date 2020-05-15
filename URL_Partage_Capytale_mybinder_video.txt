@@ -1,0 +1,11 @@
+Capytal
+6a: https://py.ac-paris.fr/4802dabe
+
+6b: https://py.ac-paris.fr/585533e9
+
+mybinder
+https://mybinder.org/v2/gh/ebuonocore/SNT_6_Python/master
+Sélectionner Notebook2  puis SNT_e6b_Structures_de_base_Correction.ipynb
+
+video
+https://peertube.monlycee.net/videos/watch/5b1e150b-3186-4bfc-b2d5-b7302f9147f1
